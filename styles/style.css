@@ -94,7 +94,7 @@
     background-color: transparent;
     color: white;
     text-transform: uppercase;
-    border: 1px solid;
+    border: 1px, solid;
     padding: 12px 32px 11px 31px;
 }
 .lots {
