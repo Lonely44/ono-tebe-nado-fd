@@ -90,11 +90,10 @@
     margin-top: 15px;
 }
 .bet-button {
-    border: none;
+    border: 1px solid;
     background-color: transparent;
     color: white;
     text-transform: uppercase;
-    border: 1px, solid;
     padding: 12px 32px 11px 31px;
 }
 .lots {
