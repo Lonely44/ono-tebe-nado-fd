@@ -62,7 +62,7 @@
   padding-top: 165px;
 }
 .aligned-text {
-    text-transform: uppercase;
+  text-transform: uppercase;
 }
 .aligned-text_center {
   text-align: center;
@@ -106,6 +106,7 @@
   margin-left: 40px;
   text-transform: uppercase;
   margin-bottom: 27px;
+  gap: 25px;
 }
 .lots_card-list {
   display: flex;
@@ -186,11 +187,11 @@
   font-size: 40px;
   text-transform: uppercase;
   margin-top: 136px;
+  margin-bottom: 97px;
 }
 .about_text {
   font-size: 20px;
-  margin-top: 100px;
-  margin-bottom: -75px;
+  margin-top: 25px;
 }
 .footer {
   display: flex;
