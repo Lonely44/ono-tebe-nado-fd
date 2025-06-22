@@ -4,6 +4,7 @@
   align-items: center;
   padding: 92px 50px 96px 50px;
   font-size: 18px;
+  margin-bottom: 5px;
 }
 .header_links-list {
   display: flex;
@@ -32,10 +33,12 @@
   text-decoration: underline;
   text-underline-offset: 4px;
   line-height: 24px;
+  font-size: 18px;
 }
 .list-item-address,
 .list-item-address_no-underline {
   list-style: none;
+  font-size: 18px;
 }
 .cover {
   background-image: url(../images/cover.jpg);
@@ -113,6 +116,7 @@
   justify-content: space-between;
   flex-wrap: wrap;
   margin-bottom: 32px;
+  gap: 25px;
 }
 .lots_card-list-item {
   position: relative;
@@ -196,7 +200,6 @@
 .footer {
   display: flex;
   justify-content: space-between;
-  padding-top: 80px;
   padding-left: 50px;
   padding-right: 50px;
   margin-bottom: 82px;
@@ -205,16 +208,15 @@
 .footer_menu-list {
   list-style-type: none;
 }
-.footer_menu-list {
-  font-size: 18px;
-  max-width: 265px;
-}
 .footer_menu-list-center {
   text-align: center;
   margin-right: 28px;
 }
 .footer_menu-link {
   text-decoration: underline;
+  font-size: 18px;
+  margin-left: 25px;
+  text-underline-offset: 4px;
 }
 .footer_menu-link_active {
   text-decoration: none;
